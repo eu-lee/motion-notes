@@ -13,4 +13,4 @@ An all-in-one study app! Features include
 
 Customize Motion for yourself today!
 
-Test at getmotion.netlify.app
+[Devpost](https://devpost.com/software/notes-max)
